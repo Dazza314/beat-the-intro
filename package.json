@@ -1,0 +1,14 @@
+{
+  "name": "beat-the-intro",
+  "version": "1.0.0",
+  "description": "",
+  "workspaces": [
+    "client"
+  ],
+  "scripts": {
+    "build-client:web": "npm run build:web --workspace=client",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
